@@ -3,5 +3,7 @@
 .env
 
 .vscode
+.cursorrules
+.cursor
 .DS_Store
 .idea
